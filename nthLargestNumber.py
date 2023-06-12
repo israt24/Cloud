@@ -10,7 +10,7 @@ app = Flask(__name__)
 def hello():
     
     # List of Integers
-    numbers = [12, 33, 44, 17,37,48,57,58]
+    numbers = [30, 66, 10, 34, 22, 55, 20, 68, 49, 70]
  
     #Sorting list of Integers
     numbers.sort(reverse=True)
